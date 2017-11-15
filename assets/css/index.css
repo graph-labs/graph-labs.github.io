@@ -1,0 +1,14 @@
+h1 { text-align:center; font-size:18pt; margin-bottom:5%;}
+a { color: #63FF9D;}
+#head-logo { max-height: 250px; margin-top:25%;}
+.cover-container { text-align:left;}
+.emphasize { text-decoration: underline;}
+
+section {margin:40% 5%;}
+
+#team { text-align:center;}
+#team p { text-align:justify;}
+#team h2 { font-size:14pt;}
+.team-member { width:200px; display:inline-block; margin:2% 0;}
+
+header, footer { text-align:center; background-color: #333}
