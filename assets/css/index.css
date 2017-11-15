@@ -4,7 +4,7 @@ a { color: #63FF9D;}
 .cover-container { text-align:left;}
 .emphasize { text-decoration: underline;}
 
-section {margin:40% 5%;}
+section {margin:0 5% 40%;}
 
 #team { text-align:center;}
 #team p { text-align:justify;}
